@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0E876CF4232BF71B002DC10B /* lab 2.c in Sources */ = {isa = PBXBuildFile; fileRef = 0E876CF3232BF71B002DC10B /* lab 2.c */; };
 		0EB99A95231EC91600792E9C /* labs-main.c in Sources */ = {isa = PBXBuildFile; fileRef = 0EB99A94231EC91600792E9C /* labs-main.c */; };
 		0EB99AA3231ED03500792E9C /* pythagorus.c in Sources */ = {isa = PBXBuildFile; fileRef = 0EB99AA2231ED03500792E9C /* pythagorus.c */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0E876CF2232BF71B002DC10B /* lab 2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "lab 2.h"; sourceTree = SOURCE_ROOT; };
+		0E876CF3232BF71B002DC10B /* lab 2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "lab 2.c"; sourceTree = SOURCE_ROOT; };
 		0EB99A91231EC91600792E9C /* Labs */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Labs; sourceTree = BUILT_PRODUCTS_DIR; };
 		0EB99A94231EC91600792E9C /* labs-main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "labs-main.c"; sourceTree = "<group>"; };
 		0EB99AA1231ED03500792E9C /* pythagorus.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = pythagorus.h; sourceTree = "<group>"; };
@@ -63,6 +66,8 @@
 				0EB99AA1231ED03500792E9C /* pythagorus.h */,
 				0EB99AA2231ED03500792E9C /* pythagorus.c */,
 				0EB99A94231EC91600792E9C /* labs-main.c */,
+				0E876CF2232BF71B002DC10B /* lab 2.h */,
+				0E876CF3232BF71B002DC10B /* lab 2.c */,
 			);
 			path = labs;
 			sourceTree = "<group>";
@@ -123,6 +128,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E876CF4232BF71B002DC10B /* lab 2.c in Sources */,
 				0EB99AA3231ED03500792E9C /* pythagorus.c in Sources */,
 				0EB99A95231EC91600792E9C /* labs-main.c in Sources */,
 			);
