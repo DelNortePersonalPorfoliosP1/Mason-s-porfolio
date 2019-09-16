@@ -10,5 +10,5 @@
 #define lab_2_h
 
 #include <stdio.h>
-
+int datatypes(void) {
 #endif /* lab_2_h */
